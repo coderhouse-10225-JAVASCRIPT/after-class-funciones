@@ -1,5 +1,7 @@
 # after-class-funciones
 
+### Repositorio Archivado (read-only).
+
 * Repaso de conceptos de funciones
   * function statements
   * function expresions
